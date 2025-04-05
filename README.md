@@ -1,2 +1,3 @@
-# Nyra-filha
-Meu bot pessoal de WhatsApp 
+
+# Nyra filha
+Bot de WhatsApp privado e em português, com comandos personalizados para grupos.
